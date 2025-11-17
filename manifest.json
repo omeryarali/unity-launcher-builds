@@ -1,12 +1,12 @@
 {
   "win": {
     "version": "1.0.4",
-    "url": "https://drive.google.com/uc?export=download&confirm=t&id=1445IwrdwHrAn9uyzWK2J_VN_9L-6Hskl",
+    "url": "https://drive.usercontent.google.com/download?id=1445IwrdwHrAn9uyzWK2J_VN_9L-6Hskl&export=download&authuser=0&confirm=t&uuid=cecb1c7f-c2ee-44d7-b158-36c3a0947b8d&at=ALWLOp6dxE1hUFUsJJ0hXyI8H27S%3A1763378143450",
     "zipName": "MyUnityApp-win.zip"
   },
   "mac": {
     "version": "1.0.4",
-    "url": "https://drive.google.com/uc?export=download&confirm=t&id=1445IwrdwHrAn9uyzWK2J_VN_9L-6Hskl",
+    "url": "https://drive.usercontent.google.com/download?id=1445IwrdwHrAn9uyzWK2J_VN_9L-6Hskl&export=download&authuser=0&confirm=t&uuid=cecb1c7f-c2ee-44d7-b158-36c3a0947b8d&at=ALWLOp6dxE1hUFUsJJ0hXyI8H27S%3A1763378143450",
     "zipName": "MyUnityApp-mac.zip"
   },
   "notes": "Drive üstünden deneniyor."

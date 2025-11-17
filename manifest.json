@@ -1,12 +1,12 @@
 {
   "win": {
     "version": "1.0.4",
-    "url": "https://drive.google.com/uc?export=download&id=1445IwrdwHrAn9uyzWK2J_VN_9L-6Hskl",
+    "url": "https://drive.google.com/uc?export=download&confirm=t&id=1445IwrdwHrAn9uyzWK2J_VN_9L-6Hskl",
     "zipName": "MyUnityApp-win.zip"
   },
   "mac": {
     "version": "1.0.4",
-    "url": "https://drive.google.com/uc?export=download&id=1445IwrdwHrAn9uyzWK2J_VN_9L-6Hskl",
+    "url": "https://drive.google.com/uc?export=download&confirm=t&id=1445IwrdwHrAn9uyzWK2J_VN_9L-6Hskl",
     "zipName": "MyUnityApp-mac.zip"
   },
   "notes": "Drive üstünden deneniyor."

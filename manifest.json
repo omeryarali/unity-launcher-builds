@@ -1,12 +1,12 @@
 {
   "win": {
-    "version": "1.0.3",
-    "url": "https://github.com/omeryarali/unity-launcher-builds/releases/download/v1.0.3/MyUnityApp-win.zip",
+    "version": "1.0.4",
+    "url": "https://github.com/omeryarali/unity-launcher-builds/releases/download/v1.0.4/MyUnityApp-win.zip",
     "zipName": "MyUnityApp-win.zip"
   },
   "mac": {
-    "version": "1.0.3",
-    "url": "https://github.com/omeryarali/unity-launcher-builds/releases/download/v1.0.3/MyUnityApp-mac.zip",
+    "version": "1.0.4",
+    "url": "https://github.com/omeryarali/unity-launcher-builds/releases/download/v1.0.4/MyUnityApp-mac.zip",
     "zipName": "MyUnityApp-mac.zip"
   },
   "notes": "Küçük hata düzeltmeleri."
